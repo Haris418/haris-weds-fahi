@@ -5,6 +5,10 @@
 .gray-bg {
   background: #f5f5f5;
 }
+audio {
+  display: none;
+}
+
 .section-bg1 {
   background: #13151b;
 }
